@@ -11,3 +11,4 @@ Output/*
 Source/Docs/_site
 Bin/
 _ReSharper*
+/Output/
